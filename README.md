@@ -6,10 +6,11 @@
       - [Neares neighbour interpolation](2_image_resolution_and_interpolation/interpolation_nearest_neighbour.m)
       - [Bilinear interpolation](2_image_resolution_and_interpolation/bilinear_interpolation.m)
       - [Bicubic interpolation](2_image_resolution_and_interpolation/bicubic_interpolation.m)
-    - [Grey scale](2_image_resolution_and_interpolation/grey_scale.m)
-    - [Pixels size](2_image_resolution_and_interpolation/size_of_pixels.m)
-3. **Operation on images and point fransformation**
+    - Resolutions:
+      - [Spatial resolution (pl. rozdzielczość przestrzenna)](2_image_resolution_and_interpolation/grey_scale.m)
+      - [resolution of brightness levels (pl. rozdzielczość poziomów janości)](2_image_resolution_and_interpolation/size_of_pixels.m)
+3. **Point fransformation**
     - Logical operations
     - Arithmetical operations
-    - LUT operation
+    - Look-Up Table (LUT) operation
 4. **Histograms**
