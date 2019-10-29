@@ -6,7 +6,7 @@ img10 = imread('kolo.bmp');
 img20 = imread('kwadrat.bmp');
 
 img1 = boolean(img10);
-img2  = boolean(img20);
+img2 = boolean(img20);
 %% NOT
 result1= ~img1;
 figure(1);
