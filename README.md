@@ -24,5 +24,5 @@
         - [Sauvola local image thresholding]
         - [Mean based Thresholding]
       - [Double-threshold image binarization]
-    4. **Preprocessing**
+4. **Preprocessing**
 
